@@ -2,7 +2,6 @@
 %  remember to choose correct sum over divergence:  on-axis only, linear
 %  sum (i.e. slit filter) or full radial sum
 
-
 clear
 path0 = './';
 
