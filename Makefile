@@ -2,7 +2,7 @@
 # =================
 
 TARGET = Propagator
-DIR = $(HOME)/Code/Propagation/NewCode/
+DIR = $(HOME)/Code/Propagator/
 INCLUDE = $(DIR)
 
 it: $(DIR)$(TARGET).cpp
